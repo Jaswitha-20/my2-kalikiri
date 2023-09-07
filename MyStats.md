@@ -26,3 +26,28 @@ This section gives the information about sports and it's advantages. This table 
 > " Before anything else, preparation is the key to Scucess."
 >
 >\-*Alexander Graham Bell*
+
+---
+#### Code Fencing
+Relevant question on StackOverflow 
+>Randomize order of specific children elements<br>
+<https://stackoverflow.com/questions/73249459/randomise-order-of-specific-children-elements-only?>
+~~~ JQuery
+$.fn.shuffleChildren = function() {
+    $.each(this.get(), function(index, el) {
+        var $el = $(el);
+        var $find = $el.children();
+
+        $find.sort(function() {
+            return 0.5 - Math.random();
+        });
+
+        $el.empty();
+        $find.appendTo($el);
+    });
+};
+$("#some-element").on("postpaste", function() { 
+    // do something
+}).pasteEvents();
+~~~
+<https://css-tricks.com/snippets/jquery/shuffle-children/>
