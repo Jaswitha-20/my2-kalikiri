@@ -17,12 +17,12 @@ This section gives the information about sports and it's advantages. This table 
 
 ---
 #### Pithy Quotes
-> " Everything is theoretically impossible until it is done."
-
->\-*Robert A. Heinlein*
+> " The whole Science is nothing more than a refinement of everyda.y thinking."
+<br>
+>\-*Albert Einstein*
 
 <br>
 
 > " Before anything else, preparation is the key to Scucess."
->
+<br>
 >\-*Alexander Graham Bell*
