@@ -15,3 +15,14 @@ This section gives the information about sports and it's advantages. This table 
 |Badminton| Improves muscle strength, weight management and flexibility| 8-10 hrs|
 |Cycling|Great for cardiovascular health and leg muscle strength| 6-7 hrs|
 
+---
+#### Pithy Quotes
+> " Everything is theoretically impossible until it is done."
+
+>\-*Robert A. Heinlein*
+
+<br>
+
+> " Before anything else, preparation is the key to Scucess."
+>
+>\-*Alexander Graham Bell*
