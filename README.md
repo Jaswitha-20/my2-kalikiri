@@ -15,3 +15,6 @@ I like Bangalore because of it's climatic conditions and multi culture. It is al
 - Special Chats
 - Dhokla
 - Bisi bele bath
+
+
+[To goto MyStats](https://github.com/Jaswitha-20/my2-kalikiri/blob/main/MyStats.md)
